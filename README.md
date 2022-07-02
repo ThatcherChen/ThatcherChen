@@ -2,14 +2,13 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=thatcherchen&title_color=333&text_color=777" alt="ThatcherChen's Stats" >
 
+I'm Thatcher Chen, an undergraduate at CQU.
+
 - :hammer_and_pick:  C / C++ / Python / Java / C# 
 - :seedling:  Major in IoT Engineering
-- :pencil2: Manjaro Linux / Zsh / Vim / nnn
+- :pencil2: [Manjaro Linux](https://github.com/manjaro) / [Zsh](https://github.com/zsh-users/zsh) / [Vim](https://github.com/vim/vim) / [nnn](https://github.com/jarun/nnn)
 - :mailbox: thatcherchen@163.com
 - :books: Algorithm
 - :musical_keyboard: Make music fragment sometimes
-
-
-
 
 ---
