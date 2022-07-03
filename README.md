@@ -13,7 +13,7 @@ I'm Thatcher Chen, an undergraduate at CQU.
 
 ---
 
-#### :bar_chart: Monthly Coding Time
+#### :bar_chart: Weekly Coding Time
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
