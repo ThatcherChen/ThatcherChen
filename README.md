@@ -12,3 +12,8 @@ I'm Thatcher Chen, an undergraduate at CQU.
 - :musical_keyboard: Make music fragment sometimes
 
 ---
+
+#### :bar_chart: Monthly Coding Time
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
