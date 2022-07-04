@@ -16,4 +16,14 @@ I'm Thatcher Chen, an undergraduate at CQU.
 #### :bar_chart: Weekly Coding Time
 
 <!--START_SECTION:waka-->
+
+```text
+C                14 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.56 %
+CMake            8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.02 %
+HTML             8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.29 %
+Go               7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 %
+GitIgnore file   6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 %
+Java             6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.15 %
+```
+
 <!--END_SECTION:waka-->
