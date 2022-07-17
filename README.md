@@ -18,12 +18,7 @@ I'm Thatcher Chen, an undergraduate at CQU.
 <!--START_SECTION:waka-->
 
 ```text
-C++              1 hr 32 mins    █████████████████▒░░░░░░░   69.60 %
-ObjectiveC       13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.86 %
-C                13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 %
-JavaScript       10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
-HTML             2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
