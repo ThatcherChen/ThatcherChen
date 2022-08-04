@@ -9,7 +9,6 @@ I'm Thatcher Chen, an undergraduate at CQU.
 - :pencil2: [Manjaro Linux](https://github.com/manjaro) / [Zsh](https://github.com/zsh-users/zsh) / [Vim](https://github.com/vim/vim) / [nnn](https://github.com/jarun/nnn)
 - :mailbox: thatcherchen@163.com
 - :books: Recently reading <<A Tour of C++>> and <<Effective C++>>.
-- :musical_keyboard: Make music fragment sometimes
 
 ---
 
