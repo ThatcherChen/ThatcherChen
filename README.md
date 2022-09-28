@@ -16,12 +16,12 @@ I'm Thatcher Chen, an undergraduate at CQU.
 <!--START_SECTION:waka-->
 
 ```text
-C                4 hrs 9 mins    ███████████████▒░░░░░░░░░   61.46 %
-ObjectiveC       52 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.02 %
-HTML             50 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 %
-Ruby             29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
-GitIgnore file   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
-CMake            5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+C                1 hr 30 mins    ██████████▓░░░░░░░░░░░░░░   42.53 %
+HTML             50 mins         ██████░░░░░░░░░░░░░░░░░░░   23.58 %
+ObjectiveC       34 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.22 %
+Ruby             29 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.04 %
+Text             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+GitIgnore file   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
 ```
 
 <!--END_SECTION:waka-->
