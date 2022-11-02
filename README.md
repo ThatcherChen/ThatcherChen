@@ -17,10 +17,10 @@ I'm Thatcher Chen, an undergraduate at CQU.
 <!--START_SECTION:waka-->
 
 ```text
-C++              2 hrs 47 mins   ████████████████░░░░░░░░░   63.46 %
-Vue.js           1 hr 8 mins     ██████▒░░░░░░░░░░░░░░░░░░   25.79 %
-C                25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 %
-GitIgnore file   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+C++              1 hr 52 mins    █████████████░░░░░░░░░░░░   52.06 %
+Vue.js           1 hr 15 mins    ████████▓░░░░░░░░░░░░░░░░   34.84 %
+C                25 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.53 %
+GitIgnore file   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
 ```
 
 <!--END_SECTION:waka-->
