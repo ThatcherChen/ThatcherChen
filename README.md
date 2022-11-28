@@ -17,10 +17,9 @@ I'm Thatcher Chen, an undergraduate at CQU.
 <!--START_SECTION:waka-->
 
 ```text
-V                7 hrs 55 mins   ███████████░░░░░░░░░░░░░░   44.52 %
-C                4 hrs 30 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.32 %
-Java             2 hrs 22 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.31 %
-Other            1 hr 39 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 %
+V                7 hrs 28 mins   █████████████▓░░░░░░░░░░░   54.49 %
+Java             2 hrs 22 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.30 %
+Other            1 hr 30 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.98 %
 ```
 
 <!--END_SECTION:waka-->
