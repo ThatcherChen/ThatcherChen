@@ -17,9 +17,8 @@ I'm Thatcher Chen, an undergraduate at CQU.
 <!--START_SECTION:waka-->
 
 ```text
-C      5 hrs 4 mins    ███████████████████▓░░░░░   78.82 %
-Bash   1 hr 17 mins    █████░░░░░░░░░░░░░░░░░░░░   20.15 %
-Text   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+C      3 hrs 6 mins    █████████████████▓░░░░░░░   70.60 %
+Bash   1 hr 17 mins    ███████▒░░░░░░░░░░░░░░░░░   29.40 %
 ```
 
 <!--END_SECTION:waka-->
