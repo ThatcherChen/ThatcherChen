@@ -17,7 +17,8 @@ I'm Thatcher Chen, an undergraduate at CQU.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Kotlin           13 mins         ███████████████████████░░   91.34 %
+GitIgnore file   1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
 ```
 
 <!--END_SECTION:waka-->
