@@ -17,9 +17,11 @@ I'm Thatcher Chen, an undergraduate at CQU.
 <!--START_SECTION:waka-->
 
 ```text
-TeX              2 hrs 42 mins   ██████████████████████▒░░   88.97 %
-Kotlin           11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
-Other            4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+TeX              2 hrs 42 mins   ███████████████████▒░░░░░   77.25 %
+Java             15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
+Kotlin           11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
+GitIgnore file   8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+Other            4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
 ```
 
 <!--END_SECTION:waka-->
