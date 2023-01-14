@@ -17,12 +17,12 @@ I'm Thatcher Chen, an undergraduate at CQU.
 <!--START_SECTION:waka-->
 
 ```text
-TeX               2 hrs 42 mins   ███████████████▒░░░░░░░░░   61.58 %
-Kotlin            24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 %
-Java              20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 %
-JavaScript        19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
-Gettext Catalog   11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
-GitIgnore file    8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+TeX               2 hrs 42 mins   ████████████████░░░░░░░░░   63.67 %
+Kotlin            20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
+Java              20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
+JavaScript        19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
+Gettext Catalog   11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
+GitIgnore file    8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
 ```
 
 <!--END_SECTION:waka-->
