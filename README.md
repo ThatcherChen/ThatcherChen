@@ -17,11 +17,7 @@ I'm Thatcher Chen, an undergraduate at CQU.
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript        19 mins         ██████████████░░░░░░░░░░░   56.20 %
-Gettext Catalog   11 mins         ████████▓░░░░░░░░░░░░░░░░   35.08 %
-JSON              2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
-Scala             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
-TypeScript        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
