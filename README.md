@@ -17,10 +17,8 @@ I'm Thatcher Chen, an undergraduate at CQU.
 <!--START_SECTION:waka-->
 
 ```text
-C++              7 hrs 56 mins   ████████████████████████▓   98.20 %
-XML              4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-Scala            3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-CMake            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+C++              10 hrs 24 mins  █████████████████████████   99.90 %
+CMake            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
