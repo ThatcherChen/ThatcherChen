@@ -17,12 +17,12 @@ I'm Thatcher Chen, an undergraduate at CQU.
 <!--START_SECTION:waka-->
 
 ```text
-Scala                   4 hrs 51 mins   █████████████▒░░░░░░░░░░░   52.92 %
-Java                    3 hrs 18 mins   █████████░░░░░░░░░░░░░░░░   35.93 %
-XML                     27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
-ANTLR v4 grammar file   21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
-GitIgnore file          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-Text                    6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+Scala                   7 hrs 35 mins   ████████████▓░░░░░░░░░░░░   51.15 %
+Java                    5 hrs 4 mins    ████████▓░░░░░░░░░░░░░░░░   34.15 %
+XML                     50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
+ANTLR v4 grammar file   29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
+Text                    23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+Markdown                16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
 ```
 
 <!--END_SECTION:waka-->
