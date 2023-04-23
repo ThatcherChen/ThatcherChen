@@ -8,7 +8,7 @@ I'm Thatcher Chen, an undergraduate at CQU.
 - :seedling:  Major in IoT Engineering
 - :pencil2: START-Database
 - :mailbox: thatcherchen@163.com
-- :books: <<Refactoring>>
+- :books: 《Refactoring》
 
 ---
 
