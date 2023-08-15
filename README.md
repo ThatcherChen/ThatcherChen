@@ -17,9 +17,7 @@ I'm Thatcher Chen, an undergraduate at CQU.
 <!--START_SECTION:waka-->
 
 ```txt
-TeX      5 mins          ██████████████████▒░░░░░░   73.36 %
-Vue.js   1 min           ██████░░░░░░░░░░░░░░░░░░░   24.07 %
-Other    0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
