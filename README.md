@@ -2,13 +2,12 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=thatcherchen&title_color=333&text_color=777" alt="ThatcherChen's Stats" >
 
-I'm Thatcher Chen, an undergraduate at CQU.
+I'm Thatcher Chen, an undergraduate at Chongqing University.
 
-- :hammer_and_pick:  C / C++ / Python / Java / C# 
+- :hammer_and_pick:  C/C++/Java/Rust/Python
 - :seedling:  Major in IoT Engineering
-- :pencil2:  Spatial-Temporal Range Query
+- :pencil2:  Database & Data mining
 - :mailbox: thatcherchen@163.com
-- :books: 《Refactoring》
 
 ---
 
