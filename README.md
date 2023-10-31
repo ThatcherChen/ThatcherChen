@@ -4,9 +4,9 @@
 
 I'm Thatcher Chen, an undergraduate at Chongqing University.
 
-- :hammer_and_pick:  C/C++/Java/Rust/Python
+- :hammer_and_pick:  C/C++/Java/Rust/Python/Bash | GNU/Linux
 - :seedling:  Major in IoT Engineering
-- :pencil2:  Database & Data mining
+- :pencil2:  Database, Data Mining, Urban Computing
 - :mailbox: thatcherchen@163.com
 
 ---
