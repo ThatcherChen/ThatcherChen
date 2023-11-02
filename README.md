@@ -17,7 +17,9 @@ I'm Thatcher Chen, an undergraduate at Chongqing University.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Assembly         17 mins         ████████████████▒░░░░░░░░   64.73 %
+GitIgnore file   9 mins          ████████▓░░░░░░░░░░░░░░░░   35.14 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
