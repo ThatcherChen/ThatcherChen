@@ -18,8 +18,11 @@ I'm Thatcher Chen, an undergraduate at Chongqing University.
 <!--START_SECTION:waka-->
 
 ```txt
-Python   2 hrs 43 mins   █████████████████████████   99.82 %
-Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Python           2 hrs 43 mins   ██████████████▓░░░░░░░░░░   58.11 %
+C++              56 mins         █████░░░░░░░░░░░░░░░░░░░░   20.15 %
+Java             32 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.43 %
+ObjectiveC       23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
+Shell Script     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
 ```
 
 <!--END_SECTION:waka-->
