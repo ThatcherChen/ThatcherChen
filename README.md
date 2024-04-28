@@ -18,9 +18,7 @@ I'm Thatcher Chen, an undergraduate at Chongqing University.
 <!--START_SECTION:waka-->
 
 ```txt
-C++        36 mins         █████████████████████████   99.38 %
-TeX        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-Assembly   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
