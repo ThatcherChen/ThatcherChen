@@ -18,8 +18,7 @@ I'm Thatcher Chen, an undergraduate at Chongqing University.
 <!--START_SECTION:waka-->
 
 ```txt
-Other     1 hr 2 mins     ██████████████░░░░░░░░░░░   55.35 %
-Gnuplot   50 mins         ███████████░░░░░░░░░░░░░░   44.65 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
