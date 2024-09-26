@@ -6,8 +6,8 @@ I'm Thatcher Chen, an undergraduate at Chongqing University, with full passion f
 
 - :hammer_and_pick:  C/C++/Rust/Java/Scala/Python/Bash
 - :bulb:  {Vector, Cloud-Native, Spatial-Temporal} Database Management System
-- :telescope:  Research Intern of [System Research Group @ MSR Asia](https://www.microsoft.com/en-us/research/group/systems-research-group-asia) and [Start Lab @ Chongqing University](https://github.com/Spatio-Temporal-Lab) with internal ID [zcc0de](https://github.com/zcc0de)
-- :seedling:  Runner & Bicycler
+- :telescope:  Research Intern of [Systems Research Group @ MSR Asia](https://www.microsoft.com/en-us/research/group/systems-research-group-asia) and [Start Lab @ Chongqing University](https://github.com/Spatio-Temporal-Lab) with internal ID [zcc0de](https://github.com/zcc0de)
+- :seedling:  Runner & Badminton player
 - :mailbox: thatcherchen@163.com
 
 ---
