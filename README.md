@@ -16,11 +16,11 @@ I'm Zechao Chen, an admitted PhD student at HKUST(GZ) with full passion for data
 <!--START_SECTION:waka-->
 
 ```txt
-C++              4 hrs 19 mins   ████████████████████▒░░░░   80.71 %
-C                52 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.34 %
-GitIgnore file   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
-JSON             2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-Markdown         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+C++              2 hrs 22 mins   █████████████████▓░░░░░░░   71.31 %
+C                52 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.22 %
+GitIgnore file   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+SQL              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
