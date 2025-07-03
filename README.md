@@ -4,9 +4,9 @@
 
 I'm Zechao Chen, a PhD student of DIAL @ HKUST(GZ) with full passion for database-related research.
 
-- :hammer_and_pick:  C/C++/Rust/Java/Scala/Python/Bash
-- :bulb:  Database Management System, Data-centric AI, Agentic AI
-- :telescope:  Research Intern of DeepWisdom (MetaGPT X)
+- :hammer_and_pick:  C/C++/Java/Python; CUDA;
+- :bulb:  Database Management System, Agentic AI, Data Agent
+- :telescope:  Looking for industrial collaboration or internship
 - :seedling:  Runner & Badminton player
 
 ---
