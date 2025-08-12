@@ -16,11 +16,11 @@ I'm Zechao Chen, a PhD student of DIAL @ HKUST(GZ) with full passion for databas
 <!--START_SECTION:waka-->
 
 ```txt
-Python           14 hrs 16 mins  ██████████████████████▒░░   88.78 %
-JSON             46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
-textmate         34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
-Markdown         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
-Text             9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+Python     12 hrs 21 mins  █████████████████████░░░░   84.12 %
+TeX        42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
+textmate   34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
+JSON       22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+Markdown   18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
 ```
 
 <!--END_SECTION:waka-->
