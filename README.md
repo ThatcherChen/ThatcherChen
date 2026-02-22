@@ -16,9 +16,9 @@ I'm Zechao Chen, a PhD student of DIAL @ HKUST(GZ) with full passion for databas
 <!--START_SECTION:waka-->
 
 ```txt
-QML      2 hrs 34 mins         ███████████████████████░░   92.57 %
-Other    9 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
-XML      2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+QML      2 hrs 22 mins         ███████████████████████░░   92.01 %
+Other    9 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
+XML      2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
 Python   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
