@@ -1,6 +1,6 @@
 ## Hi, Thatcher here! :wave:
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=thatcherchen&title_color=333&text_color=777" alt="ThatcherChen's Stats" >
+<img align="right" src="./profile/stats.svg" alt="ThatcherChen's Stats" >
 
 I'm Zechao Chen, a PhD student of DIAL @ HKUST(GZ) with full passion for database-related research.
 
